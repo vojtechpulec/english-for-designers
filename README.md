@@ -1,2 +1,2 @@
 # English for Designers
-Design manifesto
+[Design manifesto](https://github.com/vojtechpulec/english-for-designers/blob/main/01-design-manifesto/design-manifesto)
