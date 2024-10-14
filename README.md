@@ -1,2 +1,2 @@
-# english-for-designers
-English for Designers
+# English for Designers
+Design manifesto
