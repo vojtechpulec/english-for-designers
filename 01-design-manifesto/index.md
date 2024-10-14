@@ -1,5 +1,5 @@
 # My design manifesto
-
+> Vojtěch Pulec
 
 ### Everyone can be a designer
 
