@@ -9,6 +9,6 @@ When my designer journey began, as I started studying Graphic Design in high sch
 > “Everything is designed. Few things are designed well.” 
   – *Brian Reed*
 
-As I mentioned in my **[Design manifesto]([01-design-manifesto/index.md](https://github.com/vojtechpulec/english-for-designers/blob/main/01-design-manifesto/index.md))**, everything around us was created by someone, and **everyone who creates is a designer.** But my ideology of good design (not just in form on graphics) is generating a **deeper meaning of things,** something more than just a surface-level beauty. The shallow look of things is very important too, but it cant work on its own.
+As I mentioned in my **[Design manifesto](https://github.com/vojtechpulec/english-for-designers/blob/main/01-design-manifesto/index.md)**, everything around us was created by someone, and **everyone who creates is a designer.** But my ideology of good design (not just in form on graphics) is generating a **deeper meaning of things,** something more than just a surface-level beauty. The shallow look of things is very important too, but it cant work on its own.
 
 Design for me is a way to share an **authentic expression of yourself** as an author. But also **make the world around us look, and work better.** 
