@@ -1,4 +1,4 @@
-## Hi!
+## Hi!👋
 
 My name is **Vojtěch Pulec** and I am a **graphic designer.**
 
