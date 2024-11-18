@@ -2,6 +2,7 @@
 
 My name is **Vojtěch Pulec** and I am a **graphic designer.**
 
+
 Throughout my life, I have always liked to create something. Slowly, I started to care about how things in the world around us look. 
 
 When my designer journey began, as I started studying Graphic Design in high school, I started to form my point of view on what truly matters to me in not only my craft but also the things that I meet every day around me.
