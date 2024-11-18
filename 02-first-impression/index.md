@@ -1,4 +1,4 @@
-## First Impression
+## Hi!
 
 My name is **Vojtěch Pulec** and I am a **student of graphic design** at the University of Creative Communication in Prague, Czech Republic.
 
