@@ -42,7 +42,7 @@ The whole visual stands on AI generated images in bitmap reflecting the net. The
 
 ![image](/Users/vojtechpulec/Documents/portfolio/pcc.png)
 ## Set of pictograms for Prague Congress Centre
-I was working on the all rounded set of pictograms for the first time ever right here, as a school project.
+It was my first time ever working on the all rounded set of pictograms, as a school group project.
 
 While thinking and sketching the pictograms for the Prague Congress Centre, the most important things that came up is the unique brutalist architecture of the building, and also a sharp logo. These two things kind of created the character of the pictograms. We tried to reflect the elements of the arrows from the logo, creating the rough, brutalist vibe, matching the profile of Prague Congress Centre. 
 
