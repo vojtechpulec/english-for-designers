@@ -18,15 +18,6 @@ Design for me is a way to share an **authentic expression of yourself** as an au
 
 # Some of my projects
 
-![image](/Users/vojtechpulec/Documents/portfolio/famufest40.png)
-## FAMUFEST 40: SÍTĚ
-FAMUFEST is a student film festival which takes place anually at the FAMU University in Prague, this year with topic focused on the neuron webs.
-
-Have you ever thought about the similarities between the internet web, and the web of neurons inside of our brains? They have so much in common, and thats exactly what the visiual showcases. The only difference is that only one of those is able to generate emotions and the other one not, or is it? 
-
-The whole visual stands on AI generated images in bitmap reflecting the net. The images are showcasing various emotions through human eyes. Eyes are the gate to the peoples mind, and showcases all hints of emotions. Those images are suppported  with the autentic patterns related to the individual emotion, its strength and character formed into the logo of FAMUFEST.
-
-
 ![image](/Users/vojtechpulec/Documents/portfolio/letka.png)
 ## Café & Klub Letka
 When you think of "beautiful and cozy café," you might be imaginating the interior of Café Letka, located at Letná, Prague.
@@ -35,10 +26,27 @@ I believe that every beautiful thing deserves to be presented in the very same f
 
 The logo represents the young soul of the café via the simple custom sans font, with the elements of the vintage arcs in the letters, creating symbiosis of fresh and old school, just like the space itself.
 
+2024
+
+
+![image](/Users/vojtechpulec/Documents/portfolio/famufest40.png)
+## FAMUFEST 40: SÍTĚ
+FAMUFEST is a student film festival which takes place anually at the FAMU University in Prague, this year with topic focused on the neuron webs.
+
+Have you ever thought about the similarities between the internet web, and the web of neurons inside of our brains? They have so much in common, and thats exactly what the visiual showcases. The only difference is that only one of those is able to generate emotions and the other one not, or is it? 
+
+The whole visual stands on AI generated images in bitmap reflecting the net. The images are showcasing various emotions through human eyes. Eyes are the gate to the peoples mind, and showcases all hints of emotions. Those images are suppported  with the autentic patterns related to the individual emotion, its strength and character formed into the logo of FAMUFEST.
+
+2023
+
 
 ![image](/Users/vojtechpulec/Documents/portfolio/pcc.png)
 ## Set of pictograms for Prague Congress Centre
 
+2023
+
 
 ![image](/Users/vojtechpulec/Documents/portfolio/uip.png)
 ## United Islands of Prague 20
+
+2022
