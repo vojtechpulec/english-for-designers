@@ -16,7 +16,7 @@ Design for me is a way to share an **authentic expression of yourself** as an au
 
 
 
-# Take a look at some projects i worked on
+# Take a look at some projects I worked on:
 
 
 ![letka](https://github.com/user-attachments/assets/ee8d5542-1bdd-4592-9042-027f16755456)
