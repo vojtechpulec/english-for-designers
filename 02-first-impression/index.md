@@ -18,7 +18,8 @@ Design for me is a way to share an **authentic expression of yourself** as an au
 
 # Some of my projects
 
-![image](/Users/vojtechpulec/Documents/portfolio/letka.png)
+
+![letka](https://github.com/user-attachments/assets/ee8d5542-1bdd-4592-9042-027f16755456)
 ## Café & Klub Letka
 When you think of "beautiful and cozy café," you might be imaginating the interior of Café Letka, located at Letná, Prague.
 
@@ -29,7 +30,7 @@ The logo represents the young soul of the café via the simple custom sans font,
 2024
 
 
-![image](/Users/vojtechpulec/Documents/portfolio/famufest40.png)
+![famufest40](https://github.com/user-attachments/assets/64866c90-e4df-4c4b-8962-7901f3373adf)
 ## FAMUFEST 40: SÍTĚ
 FAMUFEST is a student film festival which takes place anually at the FAMU University in Prague, this year with topic focused on the neuron webs.
 
@@ -40,16 +41,15 @@ The whole visual stands on AI generated images in bitmap reflecting the net. The
 2023
 
 
-![image](/Users/vojtechpulec/Documents/portfolio/pcc.png)
+![pcc](https://github.com/user-attachments/assets/03b20480-51a5-4f7a-a72a-7129af80452f)
 ## Set of pictograms for Prague Congress Centre
-It was my first time ever working on the all rounded set of pictograms, as a school group project.
+It was my first time ever working on the all rounded set of pictograms, as a atelier school project.
 
-While thinking and sketching the pictograms for the Prague Congress Centre, the most important things that came up is the unique brutalist architecture of the building, and also a sharp logo. These two things kind of created the character of the pictograms. We tried to reflect the elements of the arrows from the logo, creating the rough, brutalist vibe, matching the profile of Prague Congress Centre. 
+While thinking and sketching the pictograms for the Prague Congress Centre, the most important things that we came up with, is the unique brutalist architecture of the building and a sharp arrows in the logo. These two things kind of created the character of the pictograms. We tried to reflect the elements of the arrows from the logo, creating the rough, brutalist vibe, matching the profile of Prague Congress Centre. 
 
 2023
 
-
-![image](/Users/vojtechpulec/Documents/portfolio/uip.png)
+![uip](https://github.com/user-attachments/assets/f0fcf48e-a282-4725-ac02-e93c69bb3f5f)
 ## United Islands of Prague 20
 
 2022
