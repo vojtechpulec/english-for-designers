@@ -47,7 +47,7 @@ The whole visual stands on AI generated images in bitmap reflecting the net. The
 ## Set of pictograms for Prague Congress Centre
 **2023  //  PICTOGRAM CREATION**
 
-![pcc](https://github.com/user-attachments/assets/03b20480-51a5-4f7a-a72a-7129af80452f)
+![pcc_icons](https://github.com/user-attachments/assets/a72e6c50-a370-4672-9a9d-6a465a41a0db)
 It was my first time ever working on the all rounded set of pictograms, as a atelier school project.
 
 While thinking and sketching the pictograms for the Prague Congress Centre, the most important things that we came up with, is the unique brutalist architecture of the building and a sharp arrows in the logo. These two things kind of created the character of the pictograms. We tried to reflect the elements of the arrows from the logo, creating the rough, brutalist vibe, matching the profile of Prague Congress Centre. 
