@@ -1,8 +1,6 @@
 ## 👋 Hi!
 
-My name is **Vojtěch Pulec** and I am a young **graphic designer** from the Czech Republic, who loves all kinds of creativity. Apart from design, I'm tapped into **music, fashion,** or I spend my free time enjoying things such as **football** or **video games.**
-
-Hi, I'm Vojtěch Pulec, a young **graphic designer** based near Prague. I enjoy the creative process and getting inspired by creative solution. Apart from design, I'm tapped into **music and fashion.** I'm also an Arsenal fan, and gaming is my jam.
+I'm Vojtěch Pulec, a young **graphic designer** based near Prague. I enjoy the creative process and getting inspired by creative solutions. Apart from design, I'm tapped into **music and fashion.** I'm also an Arsenal fan, and gaming is my jam.
 
 ## About Vojtěch Pulec
 
