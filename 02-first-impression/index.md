@@ -30,7 +30,7 @@ I believe that every beautiful thing deserves to be presented in the very same f
 
 The logo represents the young soul of the café via the simple custom sans font, with the elements of the vintage arcs in the letters, creating symbiosis of fresh and old school, just like the space itself.
 
-2024
+**2024 // LOGO DESIGN**
 
 
 ![famufest40](https://github.com/user-attachments/assets/64866c90-e4df-4c4b-8962-7901f3373adf)
@@ -41,7 +41,7 @@ Have you ever thought about the similarities between the digital webs on the int
 
 The whole visual stands on AI generated images in bitmap reflecting the net. The images are showcasing various emotions through human eyes. Eyes are the gate to the peoples mind, and showcases all hints of emotions. Those images are suppported  with the autentic patterns related to the individual emotion, its strength and character formed into the logo of FAMUFEST.
 
-2023
+**2023  //  IDEA MAKING  //  VISUALS  //  POSTERS**
 
 
 ![pcc](https://github.com/user-attachments/assets/03b20480-51a5-4f7a-a72a-7129af80452f)
@@ -50,9 +50,9 @@ It was my first time ever working on the all rounded set of pictograms, as a ate
 
 While thinking and sketching the pictograms for the Prague Congress Centre, the most important things that we came up with, is the unique brutalist architecture of the building and a sharp arrows in the logo. These two things kind of created the character of the pictograms. We tried to reflect the elements of the arrows from the logo, creating the rough, brutalist vibe, matching the profile of Prague Congress Centre. 
 
-2023
+**2023  //  PICTOGRAM CREATION**  
 
 ![uip](https://github.com/user-attachments/assets/f0fcf48e-a282-4725-ac02-e93c69bb3f5f)
 ## United Islands of Prague 20
 
-2022
+**2022  //  POSTERS  //  SOCIAL MEDIA**
