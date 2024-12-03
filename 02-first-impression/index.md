@@ -1,6 +1,6 @@
 ## 👋 Hi!
 
-My name is **Vojtěch Pulec** and I am a young **graphic designer** from the Czech Republic, who loves creativity. When I'm not working on, or exploring designs, I'm most likely tapped into music, fashion, or enjoying things such as football or video games.
+My name is **Vojtěch Pulec** and I am a young **graphic designer** from the Czech Republic, who loves all kinds of creativity. When I'm not working on, or exploring designs, I'm most likely tapped into music, fashion, or enjoying things such as football or video games.
 
 
 Throughout my life, I have always liked to create something. Slowly, I started to care about how things in the world around us look. 
