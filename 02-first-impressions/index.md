@@ -28,6 +28,8 @@ I believe that every beautiful thing deserves to be presented in the very same f
 
 The logo represents the young soul of the café via the simple custom sans font, with the elements of the vintage arcs in the letters, creating symbiosis of fresh and old school, just like the space itself.
 
+<!-- make it shorter, before and after of the logo? -->
+
 
 
 ## FAMUFEST 40: SÍTĚ
