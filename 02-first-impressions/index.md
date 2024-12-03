@@ -1,4 +1,4 @@
-## 👋 Hi!
+# 👋 Hi!
 
 I'm Vojtěch Pulec, a young **graphic designer** based near Prague. I enjoy the creative process and getting inspired by creative solutions. Apart from design, I'm tapped into **music and fashion.** I'm also an Arsenal fan, and i enjoy gaming in my free time.
 
@@ -15,7 +15,7 @@ As I mentioned in my **[Design manifesto](https://github.com/vojtechpulec/englis
 My designer journey began, as I started studying graphic design in high school. There I started to form my point of view on what truly matters to me in not only my craft but also the things that I meet every day around me. -->
 
 
-## Take a look at some of my projects:
+# Take a look at some of my projects:
 Most of my projects were and are focused on **visual identities and visuals for social media**, but I'm interested in all kinds of creative projects. I enjoy not only working on the visual side but also on the **idea-making and content.** 
 
 ## Café & Klub Letka - Redesign
