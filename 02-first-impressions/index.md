@@ -19,7 +19,7 @@ My designer journey began, as I started studying graphic design in high school. 
 ## Take a look at some of my projects:
 Most of my projects were and are focused on **visual identities and visuals for social media**, but I'm interested in all kinds of creative projects. I enjoy not only working on the visual side but also on the **idea-making and content.** 
 
-## Café & Klub Letka redesign
+## Café & Klub Letka - Redesign
 **2024 // VISUAL IDENTITY**
 
 ![letka](https://github.com/user-attachments/assets/ee8d5542-1bdd-4592-9042-027f16755456)
