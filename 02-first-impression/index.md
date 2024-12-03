@@ -6,7 +6,7 @@ My name is **Vojtěch Pulec** and I am a young **graphic designer** from the Cze
 ### About me
 Throughout my life, I have always liked to create something. Slowly, I started to care about how things in the world around us look. 
 
-When my designer journey began, as I started studying graphic design in high school, I started to form my point of view on what truly matters to me in not only my craft but also the things that I meet every day around me.
+My designer journey began, as I started studying graphic design in high school. There I started to form my point of view on what truly matters to me in not only my craft but also the things that I meet every day around me.
 
 > “Everything is designed. Few things are designed well.” 
   – *Brian Reed*
