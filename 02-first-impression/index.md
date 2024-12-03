@@ -13,7 +13,9 @@ My designer journey began, as I started studying graphic design in high school. 
 
 As I mentioned in my **[Design manifesto](https://github.com/vojtechpulec/english-for-designers/blob/main/01-design-manifesto/index.md)**, everything around us was created by someone, and **everyone who creates is a designer.** But my ideology of good design (not just in the form of graphics) is generating a **deeper meaning of things,** something more than just surface-level beauty. The shallow look of things is very important too, but it can't work long-term on its own.
 
-Design for me is a way to share an **authentic expression of yourself** as an author. But also **make the world around us look, and work better.** I'm curretly finishing my last year of the Graphic and media design bachelor's program at the Prague School of Creative Communication. My projects were and are mostly focused on **identities, logos, socials, icons, etc.**, but I'm interested in all kinds of creative projects. I enjoy not only working on the visual side but also on the **idea-making and content.** 
+Design for me is a way to share an **authentic expression of yourself** as an author. But also **make the world around us look, and work better.**
+
+I'm curretly finishing my last year of the Graphic and media design bachelor's program at the Prague School of Creative Communication. My projects were and are mostly focused on **identities, logos, socials, icons, etc.**, but I'm interested in all kinds of creative projects. I enjoy not only working on the visual side but also on the **idea-making and content.** 
 
 
 
