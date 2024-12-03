@@ -6,8 +6,7 @@ I'm Vojtěch Pulec, a young **graphic designer** based near Prague. I enjoy the 
 
 Hi, Vojta here again! I'm curretly finishing my last year of the Graphic and media design bachelor's program at the Prague School of Creative Communication. Design for me is a way to share an **authentic expression of yourself** as an author. But also **make the world around us look, and work better.**
 
-> “Everything is designed. Few things are designed well.” 
-  – *Brian Reed*
+> “Everything is designed. Few things are designed well.” — *Brian Reed*
 
 As I mentioned in my **[Design manifesto](https://github.com/vojtechpulec/english-for-designers/blob/main/01-design-manifesto/index.md)**, everything around us was created by someone, and **everyone who creates is a designer.** But my ideology of good design (not just in the form of graphics) is generating a **deeper meaning of things,** something more than just surface-level beauty. The shallow look of things is very important too, but it can't work long-term on its own.
 
