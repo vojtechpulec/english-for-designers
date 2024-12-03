@@ -32,9 +32,9 @@ The logo represents the young soul of the café via the simple custom sans font,
 
 ![famufest40](https://github.com/user-attachments/assets/64866c90-e4df-4c4b-8962-7901f3373adf)
 ## FAMUFEST 40: SÍTĚ
-FAMUFEST is a student film festival which takes place anually at the FAMU University in Prague, this year with topic focused on the neuron webs.
+FAMUFEST is a student film festival which takes place anually at the FAMU University in Prague, this time with theme focused on the neuron webs.
 
-Have you ever thought about the similarities between the internet, digital webs, and the webs of neurons inside of our brains? They have so much in common, and thats exactly what our visiual showcases. The only difference is that only one of those is able to generate emotions and the other one not, or is it? 
+Have you ever thought about the similarities between the digital webs on the internet, and the webs of neurons inside of our brains? They have so much in common, and thats exactly what our visiual is based on. The main difference is that only one of those is able to generate emotions and the other one not, right? 
 
 The whole visual stands on AI generated images in bitmap reflecting the net. The images are showcasing various emotions through human eyes. Eyes are the gate to the peoples mind, and showcases all hints of emotions. Those images are suppported  with the autentic patterns related to the individual emotion, its strength and character formed into the logo of FAMUFEST.
 
