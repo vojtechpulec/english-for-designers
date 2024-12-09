@@ -22,13 +22,13 @@ Most of my projects were and are focused on **visual identities and visuals for 
 **2024 // VISUAL IDENTITY**
 
 ![letka](https://github.com/user-attachments/assets/ee8d5542-1bdd-4592-9042-027f16755456)
-When you think of "beautiful and cozy café," you might be imaginating the interior of Café Letka, located at Letná, Prague.
+When you think of "beautiful and cozy café," you might imagine the interior of Café Letka, located in Letná, Prague.
 
-I believe that every beautiful thing deserves to be presented in the very same fashion. The logo stands on the main attribute of the interior of the café, which are arcs. They are everywhere, at the main entrance, windows, even on top of the large mirror that is one of the first things you see after the entrance. The whole space has a young and fresh soul, even while being vintage on the surface.
+The design of the logo stands on the main attribute of the café's interior — arcs. They are everywhere, at the main entrance, windows, or the top of the large mirror. The whole space has a young and fresh soul, even while being vintage on the surface.
 
-The logo represents the young soul of the café via the simple custom sans font, with the elements of the vintage arcs in the letters, creating symbiosis of fresh and old school, just like the space itself.
+New visual identity represents the young soul of the café via the simple custom sans font, with the elements of the vintage arcs in the letters, creating symbiosis of freshness and old school, just like the space itself.
 
-<!-- make it shorter, before and after of the logo? -->
+<!-- before and after of the logo? -->
 
 
 
@@ -36,23 +36,26 @@ The logo represents the young soul of the café via the simple custom sans font,
 **2023  //  IDEA MAKING  //  VISUALS  //  POSTERS**
 
 ![famufest40](https://github.com/user-attachments/assets/64866c90-e4df-4c4b-8962-7901f3373adf)
-FAMUFEST is a student film festival which takes place anually at the FAMU University in Prague, this time with theme focused on the neuron webs.
+Visual identity for the 40th year of FAMUFEST, student film festival that takes place anually at the FAMU university in Prague. This time, the theme was neuron webs.
 
-Have you ever thought about the similarities between the digital webs on the internet, and the webs of neurons inside of our brains? They have so much in common, and thats exactly what our visiual is based on. The main difference is that only one of those is able to generate emotions and the other one not, right? 
+Our visual is focused on the similarities between neuron webs in the human brain and the digital web of the computer network. 
 
-The whole visual stands on AI generated images in bitmap reflecting the net. The images are showcasing various emotions through human eyes. Eyes are the gate to the peoples mind, and showcases all hints of emotions. Those images are suppported  with the autentic patterns related to the individual emotion, its strength and character formed into the logo of FAMUFEST.
+The visual stands on AI generated images in bitmap, showing people going through various emotions, highlighting their eyes as they are the gate to the human mind, that shows all hints of emotion. The logo of FAMUFEST contents autentic patterns, related to the individual emotion, presenting its strength and character.
 
 
 ## Set of pictograms for Prague Congress Centre
 **2023  //  PICTOGRAM CREATION**
 
 ![pcc_icons](https://github.com/user-attachments/assets/a72e6c50-a370-4672-9a9d-6a465a41a0db)
-It was my first time ever working on the all rounded set of pictograms, as a atelier school project.
+Prague Congress centre is unique by its brutalist achritecture.
 
-While thinking and sketching the pictograms for the Prague Congress Centre, the most important things that we came up with, is the unique brutalist architecture of the building and a sharp arrows in the logo. These two things kind of created the character of the pictograms. We tried to reflect the elements of the arrows from the logo, creating the rough, brutalist vibe, matching the profile of Prague Congress Centre. 
+Our set of pictograms tries to combine buildings essential brutalism elements with the sharp arrows in the logo of the PCC. The combination creates the rough, brutalist vibe, matching the buildings interior and exterior, while working well with their current logo.
 
 
 ## United Islands of Prague 20
 **2022  //  VISUALS  //  POSTERS  //  SOCIAL MEDIA**
 
 ![uip](https://github.com/user-attachments/assets/f0fcf48e-a282-4725-ac02-e93c69bb3f5f)
+United Island of Prague a multi-genre music festival happening annually for free since 2004. Its program contains upcoming artists, and established local names, but also brings interesting names from abroad.
+
+Our visual contains brand new logo for its 20. anniversary, containing the elements of the three islands that the festival is happening on. Chosen colors and the visuals itself ale reflecting the creativity, diversity, summer vibe, that the festival offers, while highlighting the achievement of the 20. anniversary.
