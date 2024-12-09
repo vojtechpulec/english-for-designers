@@ -10,4 +10,4 @@ But when it comes to the topic of “design“ among people, most of them think 
 
 These hidden messages carry the **authenticity** of you (the creator), or the thing itself. They can carry emotions, history, opinions, or just a good and creative way of things working together in an unorthodox way. To achieve this, **it usually requires a passion and the ability to understand the topic.** So as a little bit of empathy for those, you create for, and the ability to predict their approach to the craft. See what they like, but at the same time being able to be different than the others, and to always try to be yourself.
 
-**[More about me](https://vojtechpulec.github.io/english-for-designers/02-first-impressions/)**
+**[More about me](https://github.com/vojtechpulec/english-for-designers/blob/main/02-first-impressions/index.md)**
