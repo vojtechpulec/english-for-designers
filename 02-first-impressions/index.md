@@ -59,3 +59,7 @@ Our set of pictograms tries to combine buildings essential brutalism elements wi
 United Island of Prague a multi-genre music festival happening annually for free since 2004. Its program contains upcoming artists, and established local names, but also brings interesting names from abroad.
 
 Our visual contains brand new logo for its 20. anniversary, containing the elements representing the islands that the festival is happening on. Chosen colors and the visuals itself ale reflecting the creativity, diversity, summer vibe, that the festival offers, while highlighting the achievement of the 20. anniversary.
+
+**Like my work? Contact me!**
+*(WIP)*
+
