@@ -24,9 +24,9 @@ Most of my projects were and are focused on **visual identities and visuals for 
 ![letkabeforeafter](https://github.com/user-attachments/assets/c01c183e-2783-425b-be52-3f3a6d24edd5)
 When you think of "beautiful and cozy café," you might imagine the interior of Café Letka, located in Letná, Prague.
 
-The design of the logo stands on the main attribute of the café's interior — arcs. They are everywhere, at the main entrance, windows, or the top of the large mirror. The whole space has a young and fresh soul, even while being vintage on the surface.
+The design of the logo stands on the main attribute of the café's interior — arcs. They are everywhere, at the main entrance, windows, or even the top of the large mirror right in front of the entrance. The whole space has a young and fresh soul, even while being vintage on the surface.
 
-New visual identity represents the young soul of the café via the simple custom sans font, with the elements of the vintage arcs in the letters, creating symbiosis of freshness and old school, just like the space itself.
+New visual identity represents the young soul of the café via the simple custom sans font, with the elements of the vintage arcs in the letters, creating symbiosis of freshness and old school, just like the café itself.
 
 <!-- before and after of the logo? -->
 
