@@ -1,6 +1,6 @@
 # 👋 Hi!
 
-I'm Vojtěch Pulec, a young **graphic designer** based near Prague. Apart from design, I'm tapped into **music and fashion.** I'm also an Arsenal fan, and i enjoy gaming in my free time.
+I'm Vojtěch Pulec, a young **graphic designer** based near Prague. Apart from design, I'm tapped into **music and fashion.** I'm also an Arsenal fan, and i enjoy gaming in my free time!
 
 ## About Vojtěch Pulec
 
