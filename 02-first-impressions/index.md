@@ -17,7 +17,7 @@ Most of my projects were and are focused on **visual identities and visuals for 
 ### Café & Klub Letka - Rebranding
 **2024 // VISUAL IDENTITY**
 
-![letkabeforeafter](https://github.com/user-attachments/assets/c01c183e-2783-425b-be52-3f3a6d24edd5)
+![letka](https://github.com/user-attachments/assets/c127373a-0ad2-4fe9-a567-3e4da7d19e24)
 When you think of "beautiful and cozy café," you might imagine the interior of Café Letka, located in Letná, Prague.
 
 The design of the logo stands on the main attribute of the café's interior — arcs. They are everywhere, at the main entrance, windows, or even the top of the large mirror right in front of the entrance. The whole space has a young and fresh soul, even while being vintage on the surface.
