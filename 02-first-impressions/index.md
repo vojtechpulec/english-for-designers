@@ -14,7 +14,7 @@ Everything around us was created by someone, and **everyone who creates is a des
 # Featured projects:
 Most of my projects were and are focused on **visual identities and visuals for social media**, but I'm interested in all kinds of creative projects. I enjoy not only working on the visual side but also on the **idea-making and content.** 
 
-## Café & Klub Letka - Rebranding
+### Café & Klub Letka - Rebranding
 **2024 // VISUAL IDENTITY**
 
 ![letkabeforeafter](https://github.com/user-attachments/assets/c01c183e-2783-425b-be52-3f3a6d24edd5)
@@ -24,11 +24,9 @@ The design of the logo stands on the main attribute of the café's interior — 
 
 New visual identity represents the young soul of the café via the simple custom sans font, with the elements of the vintage arcs in the letters, creating symbiosis of freshness and old school, just like the café itself.
 
-<!-- before and after of the logo? -->
 
 
-
-## FAMUFEST 40: SÍTĚ
+### FAMUFEST 40: SÍTĚ
 **2023  //  IDEA MAKING  //  VISUALS  //  POSTERS**
 
 ![famufest40](https://github.com/user-attachments/assets/64866c90-e4df-4c4b-8962-7901f3373adf)
@@ -39,8 +37,8 @@ Our visual is focused on the similarities between neuron webs in the human brain
 The visual stands on AI generated images in bitmap, showing people going through various emotions, highlighting their eyes as they are the gate to the human mind, that shows all hints of emotion. The logo of FAMUFEST contents autentic patterns, related to the individual emotion, presenting its strength and character.
 
 
-## Set of pictograms for Prague Congress Centre
-**2023  //  PICTOGRAM CREATION**
+### Prague Congress Centre pictocrams
+**2023  //  SET OF 21 PICTOGRAMS**
 
 ![pcc_icons](https://github.com/user-attachments/assets/a72e6c50-a370-4672-9a9d-6a465a41a0db)
 Prague Congress centre is unique by its brutalist achritecture.
