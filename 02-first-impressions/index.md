@@ -8,11 +8,7 @@ Hi, Vojta here again! I'm curretly finishing my last year of the Graphic and med
 
 > “Everything is designed. Few things are designed well.” — *Brian Reed*
 
-Everything around us was created by someone, and **everyone who creates is a designer.** But my ideology of good design (not just in the form of graphics) is generating a **deeper meaning of things,** something more than just surface-level beauty. The shallow look of things is very important too, but it can't work long-term on its own. Just like I mentioned in my **[Design manifesto](https://github.com/vojtechpulec/english-for-designers/blob/main/01-design-manifesto/index.md)**. 
-
-<!--Throughout my life, I have always liked to create something. Slowly, I started to care about how things in the world around us look. 
-
-My designer journey began, as I started studying graphic design in high school. There I started to form my point of view on what truly matters to me in not only my craft but also the things that I meet every day around me. -->
+Everything around us was created by someone, and **everyone who creates is a designer.** But my ideology of good design (not just in the form of graphics) is generating a **deeper meaning of things,** something more than just surface-level beauty. The shallow look of things is very important too, but it can't work long-term on its own. Just like I mention in my **[Design manifesto](https://github.com/vojtechpulec/english-for-designers/blob/main/01-design-manifesto/index.md)**. 
 
 
 # Featured projects:
