@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Vojtěch Pulec,
 
-a young **graphic designer** based near Prague. Apart from design, I'm tapped into **music and fashion.** I'm also an Arsenal fan, and i enjoy gaming in my free time.
+a young **graphic designer** based near Prague. Apart from design, I'm tapped into **music and fashion.** I enjoy gaming in my free time, and I'm also an Arsenal fan.
 
 ## Something more about me:
 
@@ -12,9 +12,9 @@ Everything around us was created by someone, and **everyone who creates is a des
 
 
 # Featured projects:
-Most of my projects were and are focused on **visual identities and visuals for social media**, but I'm interested in all kinds of creative projects. I enjoy not only working on the visual side but also on the **idea-making and content.** 
+Most of my projects were and are focused on **visual identities and visuals for promotional design,** apart from that i also have slight experience with typesetting and some basics of UI/UX design. I'm interested in all kinds of creative projects, not just the visual side, but I also enjoy working on **idea-making and content.** 
 
-### Café & Klub Letka - Rebranding
+## Café & Klub Letka - Rebranding
 **2024 // VISUAL IDENTITY**
 
 ![letka-mockup](https://github.com/user-attachments/assets/fba0add3-2685-4979-b47c-2d75b60bdd09)
@@ -26,7 +26,7 @@ New visual identity represents the young soul of the café via the simple custom
 
 
 
-### FAMUFEST 40: SÍTĚ
+## FAMUFEST 40: SÍTĚ
 **2023  //  IDEA MAKING  //  VISUALS  //  POSTERS**
 
 ![famufest40](https://github.com/user-attachments/assets/64866c90-e4df-4c4b-8962-7901f3373adf)
@@ -37,7 +37,7 @@ Our visual is focused on the similarities between neuron webs in the human brain
 The visual stands on AI generated images in bitmap, showing people going through various emotions, highlighting their eyes as they are the gate to the human mind, that shows all hints of emotion. The logo of FAMUFEST contents autentic patterns, related to the individual emotion, presenting its strength and character.
 
 
-### Prague Congress Centre pictocrams
+## Prague Congress Centre pictocrams
 **2023  //  SET OF 21 PICTOGRAMS**
 
 ![pcc_icons](https://github.com/user-attachments/assets/a72e6c50-a370-4672-9a9d-6a465a41a0db)
