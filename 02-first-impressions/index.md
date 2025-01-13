@@ -12,7 +12,7 @@ Everything around us was created by someone, and **everyone who creates is a des
 
 
 # Featured projects:
-Most of my projects were and are focused on **visual identities and visuals for promotional design,** apart from that i also have slight experience with typesetting and some basics of UI/UX design. I'm interested in all kinds of creative projects, not just the visual side, but I also enjoy working on **idea-making and content.** 
+Most of my projects were and are focused on **visual identities and visuals for promotional design,** apart from that i also have slight experience with typesetting and some basics of UI/UX design. I'm interested in all kinds of creative projects, not just from the visual side, but I also enjoy **idea-making and content creation.** 
 
 ## Café & Klub Letka - Rebranding
 **2024 // VISUAL IDENTITY**
