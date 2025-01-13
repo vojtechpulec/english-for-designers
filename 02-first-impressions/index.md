@@ -54,7 +54,7 @@ United Island of Prague a multi-genre music festival happening annually for free
 
 Our visual contains brand new logo for its 20. anniversary, containing the elements representing the islands that the festival is happening on. Chosen colors and the visuals itself ale reflecting the creativity, diversity and the summer vibe, which is exactly what the festival offers. At the same time, the visual promotes, highlights, and celebrates the success of the festival's 20th anniversary.
 
-**Like my work? Contact me!**
+### Like my work? Contact me and let's create!
 
 via email: vojtech.pulec@email.com  
 via ig: @voytap
