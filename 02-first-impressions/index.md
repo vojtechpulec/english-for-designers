@@ -40,7 +40,7 @@ The visual stands on AI generated images in bitmap, showing people going through
 ## Prague Congress Centre pictocrams
 **2023  //  SET OF 21 PICTOGRAMS**
 
-![pcc_icons](https://github.com/user-attachments/assets/a72e6c50-a370-4672-9a9d-6a465a41a0db)
+![pcc](https://github.com/user-attachments/assets/5ba7ee35-e747-4463-9a51-f36d5c0251ee)
 Prague Congress centre is unique by its brutalist achritecture.
 
 Our set of pictograms tries to combine buildings essential brutalism elements with the sharp arrows in the logo of the PCC. The combination creates the rough, brutalist vibe, matching the buildings interior and exterior, while working well with their current logo.
