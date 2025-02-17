@@ -56,6 +56,6 @@ Our visual contains brand new logo for its 20. anniversary, containing the eleme
 
 ### Like my work? Contact me and let's create!
 
-via email: vojtech.pulec@email.com  
-via ig: @voytap
+via email: **vojtech.pulec@email.com**  
+via ig: **[@voytap](https://www.instagram.com/voytap/)**
 
