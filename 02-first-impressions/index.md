@@ -24,7 +24,7 @@ The design of the logo stands on the main attribute of the café's interior — 
 
 New visual identity represents the young soul of the café via the simple custom sans font, with the elements of the vintage arcs in the letters, creating symbiosis of freshness and old school, just like the café itself.
 
-**[More about the project](https://github.com/vojtechpulec/english-for-designers/blob/main/03-case-studies/index.md)**
+**[More about this project](https://github.com/vojtechpulec/english-for-designers/blob/main/03-case-studies/index.md)**
 
 
 
