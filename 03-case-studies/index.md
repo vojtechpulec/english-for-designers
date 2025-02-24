@@ -4,7 +4,7 @@ When you think of "beautiful and cozy café," you might imagine the interior and
 The vibe of café is outstanding and so its brand identity deserves to represent the place accordingly.
 
 ### What was the bad bean?
-The first, most obvious thing you look at is the old logo. The logo is cute, but the cuteness is maybe the only thing it has in common with the place itself. It is almost nowhere, as the café represents themselves everywhere just by it looks, so everyone knows the place by its look, not by its logo. On the other hand, the café also has its club, called Klub Letka, where all kinds of events takes place. The logo of the club doesnt match with café logo, nor with the atmosphere.
+The first, most obvious thing you look at is the old logo. The logo is cute, but the cuteness is maybe the only thing it has in common with the place itself. It is not really visible anywhere, as the café represents themselves just by it looks, so everyone knows the place by its look, not by its logo. On the other hand, the café also has its club, called Klub Letka, where all kinds of events takes place. The logo of the club doesnt match with café logo, nor with the atmosphere.
 
 ### Our brewing process
 When I got into the sketching process, trying to figure out new logo, all I had in mind is associating the logo with the interior. When you visit the place, arcs are screaming from everywhere! The hallway doors, entrance to both café and club, windows, or the giant pink mirror opposite the entrance. It almost seems like THAT is their identity, so lets work with that! 
