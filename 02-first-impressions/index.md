@@ -24,6 +24,8 @@ The design of the logo stands on the main attribute of the café's interior — 
 
 New visual identity represents the young soul of the café via the simple custom sans font, with the elements of the vintage arcs in the letters, creating symbiosis of freshness and old school, just like the café itself.
 
+**[See more about the project](03-case-studies/index.md)**
+
 
 
 ## FAMUFEST 40: SÍTĚ
