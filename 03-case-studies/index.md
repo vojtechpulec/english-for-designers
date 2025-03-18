@@ -16,7 +16,7 @@ The vibe of café is outstanding and so its brand identity deserves to represent
 ![sketches](https://github.com/user-attachments/assets/80ad68f6-8d3a-4386-a3fa-b6d6d9692464)
 
 
-3. Another thing that clics together is the fact that this idea of bringing the "doors etc." into the logo works well with another espresso bar Letec, that has the same owner and is located just couple kilometers away. Logo of Letec is corresponding with the idea of representing the interior and doorway, so just another detail that supports the meaning of our rebranding.
+3. Another thing that clics together is the fact that this idea of bringing the “doors etc.” into the logo works well with another espresso bar Letec. The bar has the same owner and is located just couple kilometers away, considered as fellow subsidiary. Logo of Letec is corresponding with the idea of representing the interior and doorway, as another detail that supports the meaning of our rebranding.
 
 ![letka x letec](https://github.com/user-attachments/assets/094578ce-63b5-48cf-bd87-7544856ca7f6)
 
