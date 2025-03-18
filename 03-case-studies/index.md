@@ -37,7 +37,7 @@ The vibe of café is outstanding and so its brand identity deserves to represent
 
 ![cafe   klub](https://github.com/user-attachments/assets/3fa08554-95a9-4c56-a1fd-ca4399ee9d34)
 
-5. And alongside the new logo we brought more ideas to connect the branding into the identity, with brand new menus: using combination of sans and serif fonts Bitter and Raleway, working with the logo and showcasing the mentioned symbiosis. And couple more detailes as branded takeaway products (food boxes, coffee cups...), branded cards for the frequent customers featuring rewards and bonuses, or simple navigation system including pictograms for toilets etc.
+5. And alongside the new logo, we brought more ideas to connect the branding into the identity.  Brand new menus: using combination of sans and serif fonts Bitter and Raleway, working well with the logo, showcasing the mentioned symbiosis. And couple more detailes as branded takeaway products. From food boxes, coffee cups etc., to cards for the frequent customers featuring rewards and bonuses. Last but not least a simple navigation system including pictograms for toilets etc.
 
 ![extra](https://github.com/user-attachments/assets/fbfba5c6-35ee-4349-80f1-97d8afeddeb8)
 
