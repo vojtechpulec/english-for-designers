@@ -17,12 +17,14 @@ The vibe of café is outstanding and so its brand identity deserves to represent
 ### Our brewing process
 - When I got into the sketching process, trying to figure out new logo, all I had in mind is associating the logo with the interior. When you visit the place, arcs are screaming from everywhere! The hallway doors, entrance to both café and club, windows, or the giant pink mirror opposite the entrance. It almost seems like THAT is their identity, so lets work with that!
 
-![sketches](https://github.com/user-attachments/assets/80ad68f6-8d3a-4386-a3fa-b6d6d9692464)
+![sketches](https://github.com/user-attachments/assets/517b7104-34c2-46aa-81fa-31b7e088c7f1)
+
 
 
 - Another thing that clics together is the fact that this idea of bringing the “doors etc.” into the logo works well with another espresso bar Letec. The bar has the same owner and is located just couple kilometers away, considered as fellow subsidiary. Logo of Letec is corresponding with the idea of representing the interior and doorway, as another detail that supports the meaning of our rebranding.
 
-![letka x letec](https://github.com/user-attachments/assets/094578ce-63b5-48cf-bd87-7544856ca7f6)
+![letka x letec](https://github.com/user-attachments/assets/04aecb3c-ac6d-424d-9e6f-0d856bc65de7)
+
 
 
 ### Creation of our favourite café
