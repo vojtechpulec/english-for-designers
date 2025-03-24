@@ -6,7 +6,11 @@ The vibe of café is outstanding and so its brand identity deserves to represent
 ### What was the bad bean?
 - The first, most obvious thing you look at is the old logo. The logo is cute, but the cuteness is maybe the only thing it has in common with the place itself. It is not really visible anywhere, as the café represents themselves just by it looks, so everyone knows the place by its look, not by its logo. On the other hand, the café also has its club, called Klub Letka, where all kinds of events takes place. The logo of the club doesnt match with café logo, nor with the atmosphere.
 
-![oldlogos](https://github.com/user-attachments/assets/26c0ca1d-1ea9-4c6f-a0fe-cfc01e0c0676)
+![oldlogos1](https://github.com/user-attachments/assets/96933ba5-3654-4c05-b2eb-9263b59c3888 "Old logos")
+
+![logonew](https://github.com/user-attachments/assets/4f9eed84-a285-42a8-bd9a-87ebc1232d86 "New logo")
+
+
 
 
 
