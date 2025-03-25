@@ -7,9 +7,10 @@ The vibe of café is outstanding and so its brand identity deserves to represent
 - The first, most obvious thing you look at is the old logo. The logo is cute, but the cuteness is maybe the only thing it has in common with the place itself. It is not really visible anywhere, as the café represents themselves just by it looks, so everyone knows the place by its look, not by its logo. On the other hand, the café also has its club, called Klub Letka, where all kinds of events takes place. The logo of the club doesnt match with café logo, nor with the atmosphere.
 
 ![oldlogos1](https://github.com/user-attachments/assets/96933ba5-3654-4c05-b2eb-9263b59c3888 "Old logos")
+Old logos.
 
 ![logonew](https://github.com/user-attachments/assets/4f9eed84-a285-42a8-bd9a-87ebc1232d86 "New logo")
-
+New logo.
 
 
 
@@ -18,13 +19,12 @@ The vibe of café is outstanding and so its brand identity deserves to represent
 - When I got into the sketching process, trying to figure out new logo, all I had in mind is associating the logo with the interior. When you visit the place, arcs are screaming from everywhere! The hallway doors, entrance to both café and club, windows, or the giant pink mirror opposite the entrance. It almost seems like THAT is their identity, so lets work with that!
 
 ![sketches](https://github.com/user-attachments/assets/517b7104-34c2-46aa-81fa-31b7e088c7f1)
-
-
+Sketching progress.
 
 - Another thing that clics together is the fact that this idea of bringing the “doors etc.” into the logo works well with another espresso bar Letec. The bar has the same owner and is located just couple kilometers away, considered as fellow subsidiary. Logo of Letec is corresponding with the idea of representing the interior and doorway, as another detail that supports the meaning of our rebranding.
 
 ![letka x letec](https://github.com/user-attachments/assets/04aecb3c-ac6d-424d-9e6f-0d856bc65de7)
-
+Café Letka x Letec espresso bar logos.
 
 
 ### Creation of our favourite café
@@ -33,7 +33,7 @@ The vibe of café is outstanding and so its brand identity deserves to represent
 - Another goal was to make the logo match more with the logo of Klub Letka. So present two matching logos, or one that works better with the current logo of the club, in case owner wouldnt change the identity of Klub Letka.
 
 ![new logo](https://github.com/user-attachments/assets/1dc750f6-83e0-465c-968f-179b9d1f6396)
-
+New logo.
 
 
 ### Serving
@@ -42,11 +42,12 @@ The vibe of café is outstanding and so its brand identity deserves to represent
 - The same font and technique was applied for the new logo of Klub Letka, giving a option to promote both places in one logo, under the name Letka, that both of them carries. But also works fine being combined with the current logo of the club, unlike the old Café Letka logo.
 
 ![cafe   klub](https://github.com/user-attachments/assets/3fa08554-95a9-4c56-a1fd-ca4399ee9d34)
+Alternative logos.
 
 - And alongside the new logo, we brought more ideas to connect the branding into the identity.  Brand new menus: using combination of sans and serif fonts Bitter and Raleway, working well with the logo, showcasing the mentioned symbiosis. And couple more detailes as branded takeaway products. From food boxes, coffee cups etc., to cards for the frequent customers featuring rewards and bonuses. Last but not least a simple navigation system including pictograms for toilets etc.
 
 ![extra](https://github.com/user-attachments/assets/fbfba5c6-35ee-4349-80f1-97d8afeddeb8)
-
+Additional components.
 
 ### The aftertaste
 
