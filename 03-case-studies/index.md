@@ -1,6 +1,6 @@
-## Café Letka Rebranding - Case study
+## Café Letka Rebranding - Case study (2024)
 # Enhancing visual identity of the dream place to drink coffee at
-(2024)
+
 
 When you think of a "beautiful and cozy café," you might imagine the interior and atmosphere of Café Letka, located in Letná, Prague. The vibe of the café is outstanding and so its brand identity deserves to represent the place accordingly.
 
