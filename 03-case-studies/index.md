@@ -5,7 +5,7 @@
 When you think of a "beautiful and cozy café," you might imagine the interior and atmosphere of Café Letka, located in Letná, Prague. The vibe of the café is outstanding and so its brand identity deserves to represent the place accordingly.
 
 ### What was the bad bean?
-- The first, most obvious thing you look at is the old logo. The logo is cute, but the cuteness is maybe the only thing it has in common with the place itself. It is not really visible anywhere, as the café represents itself just by its looks, so everyone knows the place by its look, not by its logo. On the other hand, the café also has its club, called Klub Letka, where all kinds of events take place. The logo of the club doesn't match the café logo, nor does it match the atmosphere.
+The first, most obvious thing you look at is the old logo. The logo is cute, but the cuteness is maybe the only thing it has in common with the place itself. It is not really visible anywhere, as the café represents itself just by its looks, so everyone knows the place by its look, not by its logo. On the other hand, the café also has its club, called Klub Letka, where all kinds of events take place. The logo of the club doesn't match the café logo, nor does it match the atmosphere.
 
 ![oldlogos1](https://github.com/user-attachments/assets/96933ba5-3654-4c05-b2eb-9263b59c3888 "Old logos")
 Old logos.
