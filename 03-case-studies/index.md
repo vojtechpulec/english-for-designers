@@ -54,3 +54,6 @@ Additional components.
 ### The aftertaste
 - Every design process leaves behind something more than just visuals. In this case, what I took away from this project is the importance of designing with deeper meaning and context. We let the space itself guide the visual identity and we did not create something out of nowhere. We just brought Letkas true identity, which already existed onto the surface. In the end, it’s not just about how the brand looks, but how it feels. The new identity we created reflects the warmth, coziness, modern vibe, and unique atmosphere Letka already had even before with the old logo, they barely used, we just let it speak louder.
 
+![letka-mockup](https://github.com/user-attachments/assets/344a360d-1f47-4127-85b1-8036863db6a5)
+
+
