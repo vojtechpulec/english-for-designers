@@ -1,4 +1,4 @@
-Hello everyone, my name is **Vojtěch Pulec** and I'am a graphic designer living in Kralupy nad Vltavou, a pretty small city just a short ride from Prague.
+Hello! My name is **Vojtěch Pulec** and I'am a graphic designer living in Kralupy nad Vltavou, a pretty small city just a short ride from Prague.
 
 If you’ve ever caught me zoning out, chances are I was thinking about clothes, Arsenal’s latest match, analyzing a poster, or getting lost deep in my current music rotation. The odds of me being tapped into at least one of these things at any given moment? **Very high.**
 
