@@ -34,7 +34,7 @@ Café Letka x Letec espresso bar logos.
 - Another goal was to make the logo match more with the logo of Klub Letka. So present two matching logos, or one that works better with the current logo of the club, in case the owner wouldn't change the identity of Klub Letka.
 
 ![new logo 2](https://github.com/user-attachments/assets/d2db4289-576f-4dc0-bb0f-8eb7539e68b3)
-New logo iin positive and negative.
+New logo in positive and negative.
 
 
 ### Serving
