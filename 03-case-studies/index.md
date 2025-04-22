@@ -8,10 +8,10 @@ When you think of a "beautiful and cozy café," you might imagine the interior a
 The first, most obvious thing you look at is the old logo. The logo is cute, but the cuteness is maybe the only thing it has in common with the place itself. It is not really visible anywhere, as the café represents itself just by its looks, so everyone knows the place by its look, not by its logo. On the other hand, the café also has its club, called Klub Letka, where all kinds of events take place. The logo of the club doesn't match the café logo, nor does it match the atmosphere.
 
 ![oldlogos1](https://github.com/user-attachments/assets/96933ba5-3654-4c05-b2eb-9263b59c3888 "Old logos")
-Old logos.
+Old logos of Café & Klub Letka.
 
 ![logonew](https://github.com/user-attachments/assets/4f9eed84-a285-42a8-bd9a-87ebc1232d86 "New logo")
-New logo.
+Our new logo.
 
 
 
@@ -34,7 +34,7 @@ Café Letka x Letec espresso bar logos.
 - Another goal was to make the logo match more with the logo of Klub Letka. So present two matching logos, or one that works better with the current logo of the club, in case the owner wouldn't change the identity of Klub Letka.
 
 ![new logo 2](https://github.com/user-attachments/assets/d2db4289-576f-4dc0-bb0f-8eb7539e68b3)
-New logo.
+New logo iin positive and negative.
 
 
 ### Serving
@@ -43,7 +43,7 @@ New logo.
 - The same font and technique were applied for the new logo of Klub Letka, giving an option to promote both places in one logo, under the name Letka, that both of them carry. But also works fine being combined with the current logo of the club, unlike the old Café Letka logo.
 
 ![cafe   klub](https://github.com/user-attachments/assets/3b1da553-6f1f-4eb7-b277-090961552f98)
-Alternative logos.
+Alternative standalone logos for both Café & Klub.
 
 - Alongside the new logo, we brought more ideas to connect the branding to the identity. Brand new menus: using a combination of sans and serif fonts Bitter and Raleway, working well with the logo, showcasing the mentioned symbiosis. And a couple more details as branded takeaway products. From food boxes, coffee cups etc., to cards for the frequent customers featuring rewards and bonuses. Last but not least a simple navigation system including pictograms for toilets etc.
 
