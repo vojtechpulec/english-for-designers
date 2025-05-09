@@ -1,3 +1,20 @@
+**Hello everyone!**
+My name is Vojta,
+a graphic designer based near Prague,
+
+if you’ve ever caught me zoning out, I was most likely thinking about clothes, Arsenal’s latest match, analyzing a poster, or getting lost in my current music rotation.
+
+Chances of me being tapped into at least one of these at the given moment? Very high.
+
+I would like to tell you something about the **Inspiration and Influence** (in design and beyond)  
+
+But first things first, let me tell you something about **My “design” path:**
+Since I was a kid, I always loved creating things,
+**but I didn’t call it "design" yet.**
+
+
+  
+
 Hello! My name is **Vojtěch Pulec** and I'am a graphic designer living in Kralupy nad Vltavou, a pretty small city just a short ride from Prague.
 
 If you’ve ever caught me zoning out, chances are I was thinking about clothes, Arsenal’s latest match, analyzing a poster, or getting lost deep in my current music rotation. The odds of me being tapped into at least one of these things at any given moment? **Very high.**
