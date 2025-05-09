@@ -40,3 +40,10 @@ and I try to take the inspiration from whatever I like.
 ## Blend the worlds
 It’s not about keeping passions separate.
 ### Let the things you love inspire you and fuel new ideas
+
+## Stay curious. 
+### Stay connected to what you love.  
+Your personal passions are not just hobbies,  
+they are **the fuel for your most authentic creative work.**  
+  
+**To be yourself.**
