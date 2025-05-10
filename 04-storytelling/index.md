@@ -37,11 +37,11 @@ And I figured out, that stuff that I like outside of design,
 they don’t distract me,  
 **they feed my creativity.**
 
-![fashion](https://github.com/user-attachments/assets/b1081f3e-3967-4f53-8555-659ee06d1f50)
-- *various fashion related campaigns, posts and posters*
-
 ### Today I see design everywhere,
 and I try to find the inspiration in whatever I like.  
+
+![fashion](https://github.com/user-attachments/assets/b1081f3e-3967-4f53-8555-659ee06d1f50)
+- *various fashion related campaigns, posts and posters*
 
 ![gunners](https://github.com/user-attachments/assets/a2956cae-73e2-415c-87e9-ef77cbaf38e4)
 - *sport club visual presentation (Arsenal posts on Instagram)*
