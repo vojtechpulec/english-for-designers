@@ -64,3 +64,9 @@ Your personal passions are not just hobbies,
 they are **the fuel for your most authentic creative work.**  
 
 **To be yourself.**
+
+Thanks you, and if you ever want to talk design, music, or whatever, feel free to reach out!  
+📩 vojtech.pulec@email.com  
+📸 @voytap on Instagram
+
+
