@@ -46,10 +46,9 @@ and I try to find the inspiration in whatever I like.
 ![gunners](https://github.com/user-attachments/assets/a2956cae-73e2-415c-87e9-ef77cbaf38e4)
 - *sport club visual presentation (Arsenal posts on Instagram)*
 
-
-
-https://github.com/user-attachments/assets/9d63f81f-384b-43f5-86b2-fee29b5a80c1
-- *music videos, album covers, or artist related visuals or identities in general (Music video by Lauzza — a creative director and videographer)*
+![lauzza](https://github.com/user-attachments/assets/fd45fd60-64a0-44bb-9c0a-1acdea996b19)
+- *music videos, album covers, or artist related visuals or identities in general (Music video by Lauzza — a creative director and videographer)  
+ [Full video on YouTube](https://www.youtube.com/watch?v=klPD-stNou0&ab_channel=LAUZZA)*
 
 These things might look a bit random,   
 but hese are my references — not always from design, but **they inform my design.**
